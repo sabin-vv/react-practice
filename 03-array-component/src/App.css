@@ -1,0 +1,8 @@
+.profile__card {
+  background-color: rgb(190, 134, 243);
+  padding: 10px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
